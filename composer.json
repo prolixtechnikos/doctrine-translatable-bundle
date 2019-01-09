@@ -1,5 +1,5 @@
 {
-    "name": "prezent/doctrine-translatable-bundle",
+    "name": "prolix/doctrine-translatable-bundle",
     "type": "library",
     "description": "Integrate the doctrine-translatable extension in Symfony2",
     "keywords": [
@@ -23,7 +23,7 @@
     },
     "require": {
         "doctrine/doctrine-bundle": "^1.2",
-        "prezent/doctrine-translatable": ">=1.0,<2.0-dev",
+        "prolix/doctrine-translatable": "1.2.*",
         "symfony/config": "^2.7|^3.0|^4.0",
         "symfony/dependency-injection": "^2.7|^3.0|^4.0",
         "symfony/event-dispatcher": "^2.7|^3.0|^4.0",
