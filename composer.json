@@ -23,7 +23,7 @@
     },
     "require": {
         "doctrine/doctrine-bundle": "2.0.*",
-        "prolix/doctrine-translatable": "1.2.*",
+        "prezent/doctrine-translatable": "2.0.*",
         "symfony/config": "^2.7|^3.0|^4.0|^5.0",
         "symfony/dependency-injection": "^2.7|^3.0|^4.0|^5.0",
         "symfony/event-dispatcher": "^2.7|^3.0|^4.0|^5.0",
